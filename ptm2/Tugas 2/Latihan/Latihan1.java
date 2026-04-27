@@ -18,7 +18,6 @@ public class Latihan1 {
         System.out.println("\n=== Data Pengguna ===");
         System.out.println("Nama: " + nama);
         System.out.println("Usia: " + usia + "Tahun");
-       
     }
     
 }
