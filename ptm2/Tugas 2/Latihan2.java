@@ -1,8 +1,8 @@
-package Latihan;
+package Latihan2;
 
 import java.util.Scanner;
 
-public class Latihan3 {
+public class Latihan2 {
     public static void main(String[] args) {
         
         Scanner input = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class Latihan3 {
         
         System.out.println("\n=== Data Pengguna ===");
         System.out.println("Nama: " + nama);
-        System.out.println("Usia: " + usia + "Tahun");
+        System.out.println("Usia: " + usia + " Tahun");
 
     }
     
